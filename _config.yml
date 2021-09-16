@@ -1,5 +1,5 @@
-title: Nessaj's Blog
-author: nessaj
+title: 一个退堂鼓艺术爱好者的自留地···
+# author: nessaj
 email: nessaj@std.uestc.edu.cn
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
@@ -10,6 +10,6 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  nessaj7 # DO NOT include the @ character, or else the build will fail!
-bilibili_username: Nessaj-
+#bilibili_username: Nessaj-
 
 show_excerpts: true # set to false to remove excerpts on the homepage
