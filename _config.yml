@@ -12,4 +12,4 @@ description: > # this means to ignore newlines until "baseurl:"
 github_username:  nessaj7 # DO NOT include the @ character, or else the build will fail!
 #bilibili_username: Nessaj-
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
